@@ -12,10 +12,14 @@ Currently i am very interested in Cybersecurity.My dream is to become a computer
 professional and work in this beautiful and extensive area of technology.
 :technologist:
 <div align="center">
-  <img src="https://github.com/MarceloNoguera/MarceloNoguera/blob/master/assets/giphy.gif" width="40%"/>
+  <img src="https://github.com/MarceloNoguera/MarceloNoguera/blob/master/assets/hi.gif" width="40%"/>
 </div>
 </p>
 
+<details align="center">
+
+<summary> <b> <samp> More </samp></b></summary>
+<samp><br> <br>
 <div>
 	    
 <h2 align="center">Skills</h2>
@@ -31,13 +35,8 @@ src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.
 src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/>   </p>
 </div> <br>
 
-<details align="center">
-
-<summary> <b> <samp> More </samp></b></summary>
-<samp><br> <br>
-	
 <a align="rigth">
-  <img src="https://github.com/MarceloNoguera/MarceloNoguera/blob/master/assets/hi.gif" width="35%"/> 
+  <img src="https://github.com/MarceloNoguera/MarceloNoguera/blob/master/assets/giphy.gif" width="35%"/> 
 </a><br>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MarceloNoguera&show_icons=true)
