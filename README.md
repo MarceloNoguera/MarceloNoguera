@@ -34,12 +34,12 @@ src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-pl
 <details align="center">
 
 <summary> <b> <samp> More </samp></b></summary>
-<samp>
+<samp><br> <br>
 	
 <a align="rigth">
-  <img src="https://github.com/MarceloNoguera/MarceloNoguera/blob/master/assets/hi.gif" width="35%"/> <br> <br>
-</a>
-<br>
+  <img src="https://github.com/MarceloNoguera/MarceloNoguera/blob/master/assets/hi.gif" width="35%"/> 
+</a><br>
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MarceloNoguera&show_icons=true)
 
 
