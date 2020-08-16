@@ -3,7 +3,7 @@
   # 👋🏻 Hey, Im Marcelo
 
 <a href="">
-	<img align="left" src="https://github.com/MarceloNoguera/MarceloNoguera/blob/master/assets/hi2.gif">
+	<img align="left" src="https://github.com/MarceloNoguera/MarceloNoguera/blob/master/assets/hi2.gif" width="50%"/>
 </a>
 <p>
 Nice to meet you. My name is Marcelo. I am a student of Systems engineering. 
