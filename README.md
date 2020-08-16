@@ -19,7 +19,7 @@ professional and work in this beautiful and extensive area of technology.
 <details align="center">
 
 <summary> <b> <samp> More </samp></b></summary>
-<samp><br> <br>
+<samp><br> 
 <div>
 	    
 <h2 align="center">Skills</h2>
