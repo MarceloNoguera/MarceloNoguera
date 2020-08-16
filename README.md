@@ -4,7 +4,7 @@
 
   <p align="center">
   <br>
-	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
+	<img src="https://github.com/MarceloNoguera/MarceloNoguera/blob/master/assets/hi2.gif?sanitize=true" width="200" height="200">
 	<br>
     <img src="https://github.com/selimdoyranli/selimdoyranli/blob/master/preview.gif" width="350" />
   <br>
