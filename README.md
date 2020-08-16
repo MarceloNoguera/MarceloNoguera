@@ -11,8 +11,8 @@ Computer programming :computer: and ethical hacking :skull: are my biggest hobbi
 Currently i am very interested in Cybersecurity.My dream is to become a computer security 
 professional and work in this beautiful and extensive area of technology.
 :technologist:
-<div align="center">
-  <img src="https://github.com/MarceloNoguera/MarceloNoguera/blob/master/assets/giphy.gif" width="300"/>
+<div align="right">
+  <img src="https://github.com/MarceloNoguera/MarceloNoguera/blob/master/assets/giphy.gif" width="50%"/>
 </div>
 </p>
 
