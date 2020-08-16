@@ -18,7 +18,7 @@ professional and work in this beautiful and extensive area of technology.
 
 <details align="center">
 
-<summary> <b> <samp> More </samp></b></summary>
+<summary> <b> <samp>Click here for more </samp></b></summary>
 <samp><br> 
 <div>
 	    
