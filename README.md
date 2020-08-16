@@ -36,7 +36,7 @@ src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-pl
 </div> <br>
 
 <a align="rigth">
-  <img src="https://github.com/MarceloNoguera/MarceloNoguera/blob/master/assets/giphy.gif" width="35%"/> 
+  <img src="https://github.com/MarceloNoguera/MarceloNoguera/blob/master/assets/giphy.gif" width="50%"/> 
 </a><br>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MarceloNoguera&show_icons=true)
