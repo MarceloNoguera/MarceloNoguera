@@ -8,7 +8,7 @@
 <p>
 Nice to meet you. My name is Marcelo. I am a student of Systems engineering. 
 Computer programming :computer: and ethical hacking :skull: are my biggest hobbies.
-Currently I am very interested in Cybersecurity.My dream is to become a computer security 
+Currently i am very interested in Cybersecurity.My dream is to become a computer security 
 professional and work in this beautiful and extensive area of technology.
 :technologist:
 <div align="center">
