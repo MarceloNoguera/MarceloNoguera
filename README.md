@@ -1,6 +1,6 @@
 # 👋🏻 Hey, Im Marcelo
   
-  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
+  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)]()
 
   # Hi there :wave:
 
@@ -15,13 +15,7 @@ expert and work in this beautiful and vast area of technology..
 :rainbow: I also love the Web and am trying to combine 3D content with Web
 technologies. :technologist:
 
-  <samp>
-    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="">Marcelo</a></b>.
-    <br>I'm a Computer Engineering Undergraduate Student from Mexico.<br>
-
-</samp>
-
-  <img src="https://github.com/MarceloNoguera/MarceloNoguera/blob/master/assets/hi.gif" width="200"/>
+  <img src="https://github.com/MarceloNoguera/MarceloNoguera/blob/master/assets/giphy.gif" width="300"/>
 
 </p>
 
