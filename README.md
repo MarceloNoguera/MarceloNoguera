@@ -31,6 +31,14 @@ src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.
 src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/>   </p>
 </div> <br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MarceloNoguera&show_icons=true) 
+<details align="center">
+
+<summary> <b> <samp> More </samp></b></summary>
+<samp>
+ 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MarceloNoguera)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/marcelo-noguera-412391190/)
+
+</samp>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MarceloNoguera&show_icons=true)
