@@ -1,6 +1,6 @@
   [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)]()
 
-  # 👋🏻 Hey, Im Marcelo
+  # 👋🏻 Hey, I'm Marcelo
 
 <a href="">
 	<img align="left" src="https://github.com/MarceloNoguera/MarceloNoguera/blob/master/assets/hi2.gif" width="50%"/>
