@@ -12,7 +12,7 @@ Currently i am very interested in Cybersecurity.My dream is to become a computer
 professional and work in this beautiful and extensive area of technology.
 :technologist:
 <div align="right">
-  <img src="https://github.com/MarceloNoguera/MarceloNoguera/blob/master/assets/giphy.gif" width="50%"/>
+  <img src="https://github.com/MarceloNoguera/MarceloNoguera/blob/master/assets/giphy.gif" width="40%"/>
 </div>
 </p>
 
