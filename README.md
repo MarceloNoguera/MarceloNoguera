@@ -1,7 +1,6 @@
 <!--img src="https://github.com/SP-XD/SP-XD/blob/main/sunrise_clickedbyme.jpeg?raw=true" width="1000px"-->
-
-<div align="center" width="50">
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)]()
+<div align="center" width="50">
 <a  href="https://github.com/MarceloNoguera">
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working.gif?raw=true" href="https://github.com/MarceloNoguera" alt="CoDiNg RocKs"  width="550"/> </a>  
   
