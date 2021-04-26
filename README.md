@@ -1,6 +1,7 @@
 # 👋🏻 Hey, I'm Marcelo
 <!--img src="https://github.com/SP-XD/SP-XD/blob/main/sunrise_clickedbyme.jpeg?raw=true" width="1000px"-->
 
+![Arrexel](https://www.hackthebox.eu/badge/image/208977)
 <div align="center" width="50">
 <a  href="https://github.com/MarceloNoguera">
   <img src="https://github.com/MarceloNoguera/MarceloNoguera/blob/master/assets/hi2.gif" href="https://github.com/MarceloNoguera" alt="CoDiNg RocKs"  width="40%"/> </a>  
