@@ -1,8 +1,9 @@
+# 👋🏻 Hey, I'm Marcelo
 <!--img src="https://github.com/SP-XD/SP-XD/blob/main/sunrise_clickedbyme.jpeg?raw=true" width="1000px"-->
 
 <div align="center" width="50">
 <a  href="https://github.com/MarceloNoguera">
-  <img src="https://github.com/MarceloNoguera/MarceloNoguera/blob/master/assets/hi2.gif" href="https://github.com/MarceloNoguera" alt="CoDiNg RocKs"  width="550"/> </a>  
+  <img src="https://github.com/MarceloNoguera/MarceloNoguera/blob/master/assets/hi2.gif" href="https://github.com/MarceloNoguera" alt="CoDiNg RocKs"  width="40%"/> </a>  
   
 #### I am a student of Systems engineering. 
 #### Computer programming :computer: and ethical hacking :skull: are my biggest hobbies.
