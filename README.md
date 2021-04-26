@@ -16,6 +16,8 @@ professional and work in this beautiful and extensive area of technology.
 </div>
 </p>
 
+<img src="http://www.hackthebox.eu/badge/image/208977" alt="Hack The Box">
+
 <details align="center">
 
 <summary> <b> <samp>Click here for more </samp></b></summary>
@@ -34,8 +36,6 @@ src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wor
 src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> <img
 src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/>   </p>
 </div> <br>
-
-<script src="https://www.hackthebox.eu/badge/208977"></script>
 
 <a align="rigth">
   <img src="https://github.com/MarceloNoguera/MarceloNoguera/blob/master/assets/giphy.gif" width="50%"/> 
