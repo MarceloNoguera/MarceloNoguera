@@ -30,7 +30,8 @@ Computer programming :computer: and ethical hacking :skull: are my biggest hobbi
 Currently, I am very interested in Cybersecurity. My dream is to become a computer security 
 professional and work in this beautiful and extensive area of technology.
 :technologist:
-</p> width="15%" align="right" alt="Github Image" src="https://github.com/SP-XD/SP-XD/blob/main/images/linux.gif?raw=true" /><br>
+</p> 
+<img width="15%" align="right" alt="Github Image" src="https://github.com/SP-XD/SP-XD/blob/main/images/linux.gif?raw=true" /><br>
 
 <div align="center" >
   
