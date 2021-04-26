@@ -16,7 +16,7 @@ professional and work in this beautiful and extensive area of technology.
 </div>
 </p>
 
-<img src="http://www.hackthebox.eu/badge/image/208977" alt="Hack The Box">
+<script src="https://www.hackthebox.eu/badge/56695"></script>
 
 <details align="center">
 
