@@ -25,10 +25,10 @@
 
 <hr></hr>
 <p>
-Nice to meet you. My name is Marcelo. I am a student of Systems engineering. 
-Computer programming :computer: and ethical hacking :skull: are my biggest hobbies.
-Currently, I am very interested in Cybersecurity. My dream is to become a computer security 
-professional and work in this beautiful and extensive area of technology.
+Nice to meet you. My name is Marcelo. I am a student of Systems engineering. <br>
+Computer programming :computer: and ethical hacking :skull: are my biggest hobbies.<br>
+Currently, I am very interested in Cybersecurity. My dream is to become a computer security <br>
+professional and work in this beautiful and extensive area of technology.<br>
 :technologist:
 </p> 
 <img width="15%" align="right" alt="Github Image" src="https://github.com/SP-XD/SP-XD/blob/main/images/linux.gif?raw=true" /><br>
