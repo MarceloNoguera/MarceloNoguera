@@ -6,9 +6,6 @@
   
 #### I am a student of Systems engineering. 
 #### Computer programming :computer: and ethical hacking :skull: are my biggest hobbies.
-### Vibing to : 🎧  <!--img src="https://media.giphy.com/media/kC8QA2OYWOADK0e1Uk/giphy.gif" width="30" style="padding-top: 10px;" -->
-
-[![Spotify](https://spotify-readme.12127854564.vercel.app/api/spotify)](https://open.spotify.com/user/12127854564) <br>
 
 <!--https://media2.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif -->
 
