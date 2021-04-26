@@ -1,10 +1,9 @@
 # 👋🏻 Hey, I'm Marcelo
 <!--img src="https://github.com/SP-XD/SP-XD/blob/main/sunrise_clickedbyme.jpeg?raw=true" width="1000px"-->
 
-![Arrexel](https://www.hackthebox.eu/badge/image/208977)
 <div align="center" width="50">
 <a  href="https://github.com/MarceloNoguera">
-  <img src="https://github.com/MarceloNoguera/MarceloNoguera/blob/master/assets/hi2.gif" href="https://github.com/MarceloNoguera" alt="CoDiNg RocKs"  width="40%"/> </a>  
+<img src="https://github.com/MarceloNoguera/MarceloNoguera/blob/master/assets/hi2.gif" href="https://github.com/MarceloNoguera" alt="CoDiNg RocKs"  width="40%"/> </a>  
   
 #### I am a student of Systems engineering. 
 #### Computer programming :computer: and ethical hacking :skull: are my biggest hobbies.
@@ -15,7 +14,7 @@
 
 <hr></hr>
 
--  <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="25" /> &nbsp; I’m currently learning **C & CPP**. <img width="15%" align="right" alt="Github Image" src="https://github.com/SP-XD/SP-XD/blob/main/images/linux.gif?raw=true" /><br>
+-  <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="25" /> &nbsp; I’m currently learning **Python**. <img width="15%" align="right" alt="Github Image" src="https://github.com/SP-XD/SP-XD/blob/main/images/linux.gif?raw=true" /><br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc building, Movies, or anything**. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[MarceloNoguera](https://t.me/MarceloNoguera)**<br>
