@@ -2,7 +2,7 @@
 
 <div align="center" width="50">
 <a  href="https://github.com/MarceloNoguera">
-  <img src="https://github.com/MarceloNoguera/MarceloNoguera/blob/master/assets/hi2.gif?raw=true" href="https://github.com/MarceloNoguera" alt="CoDiNg RocKs"  width="550"/> </a>  
+  <img src="https://github.com/MarceloNoguera/MarceloNoguera/blob/master/assets/hi2.gif" href="https://github.com/MarceloNoguera" alt="CoDiNg RocKs"  width="550"/> </a>  
   
 #### I am a student of Systems engineering. 
 #### Computer programming :computer: and ethical hacking :skull: are my biggest hobbies.
