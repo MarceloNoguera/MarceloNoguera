@@ -5,7 +5,7 @@
 <a  href="https://github.com/MarceloNoguera">
 <img src="https://github.com/MarceloNoguera/MarceloNoguera/blob/master/assets/hi2.gif" href="https://github.com/MarceloNoguera" alt="CoDiNg RocKs"  width="40%"/> </a>  
   
-#### I am a student of Systems engineering. 
+#### Nice to meet you. 
 #### Computer programming :computer: and ethical hacking :skull: are my biggest hobbies.
 
 <!--https://media2.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif -->
