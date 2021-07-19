@@ -11,11 +11,7 @@
 <!--https://media2.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif -->
   
   ## Fav Tech
-<div align="center">
-⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡
-</div>
-
-
+  <hr></hr>
 <p>
   <img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" />
   <img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" />
